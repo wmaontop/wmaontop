@@ -2,8 +2,8 @@
 <img align="left" src="https://images.guns.lol/VeZex.gif" width="147"/> 
 
 ```csharp
-kjsinfo.online
-discord user   $  @192.168.254.1
+root@kjsinfo.online
+discord user   $  @ 192.168.254.1
 dc serv (Claim OG Role Quick) $  https://discord.gg/74HVz9sqGy 
 web  $  shotz.lol (Coming Soon)
 ```
