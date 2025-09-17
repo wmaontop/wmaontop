@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=WMA+%7C+shotz.lol+on+top)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=WMA+%7C+shotz.lol+on+top](https://readme-typing-svg.herokuapp.com/demo/?color=DC27F7&lines=WMA+%7C+shotz.lol+on+top;Peak+My+Website+https%3A%2F%2Fkjsinfo.online))](https://git.io/typing-svg)
 <img align="left" src="https://images.guns.lol/VeZex.gif" width="147"/> 
 
 ```csharp
