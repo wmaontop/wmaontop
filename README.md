@@ -66,4 +66,3 @@ web  $  shotz.lol (Coming Soon)
   <a href="https://t.me/wma"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
   <a href="mailto:kjdiscord69@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
-![](https://lanyard.cnrad.dev/api/1415042756409299155?bg=0000&hideTag=true)
