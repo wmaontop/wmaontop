@@ -9,4 +9,4 @@ web  $  shotz.lol (Coming Soon)
 ```
 &zwnj; 
 &zwnj;
-![](https://lanyard.cnrad.dev/api/1415042756409299155?bg=0000&hideTag=true)
+![](https://lanyard.cnrad.dev/api/1415042756409299155?idleMessage=check%20shotz.lol%20out&showDisplayName=true&hideTag=true)
