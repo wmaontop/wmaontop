@@ -28,7 +28,7 @@ web  $  shotz.lol (Coming Soon)
       </ul>
     </td>
     <td style="vertical-align: middle;">
-      <img src="https://i.guns.lol/VeZex.gif" width="100"/>
+      <img src="https://images.guns.lol/VeZex.gif" width="100"/>
     </td>
   </tr>
 </table>
