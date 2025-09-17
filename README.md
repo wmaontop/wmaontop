@@ -1,3 +1,16 @@
+[![](https://lanyard.cnrad.dev/api/1415042756409299155?bg=0000&hideTag=true)]
+<img align="left" src="https://images.guns.lol/VeZex.gif" width="147"/> 
+
+```csharp
+kjsinfo.online
+discord user   $  @192.168.254.1
+dc serv (Claim OG Role Quick) $  https://discord.gg/74HVz9sqGy 
+web  $  shotz.lol (Coming Soon)
+```
+&zwnj; 
+&zwnj;
+
+
 <div align="center">
 
 </div>
@@ -53,12 +66,4 @@
   <a href="https://t.me/wma"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
   <a href="mailto:kjdiscord69@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
-```csharp
-kjsinfo.online
-discord user   $  @192.168.254.1
-dc serv (Claim OG Role Quick) $  https://discord.gg/74HVz9sqGy 
-web  $  shotz.lol (Coming Soon)
-```
-&zwnj; 
-&zwnj;
-[](https://lanyard.cnrad.dev/api/1415042756409299155?bg=0000&hideTag=true)
+![](https://lanyard.cnrad.dev/api/1415042756409299155?bg=0000&hideTag=true)
