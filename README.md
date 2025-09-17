@@ -1,4 +1,4 @@
-[![](https://lanyard.cnrad.dev/api/1415042756409299155?bg=0000&hideTag=true)]
+![](https://lanyard.cnrad.dev/api/1415042756409299155?bg=0000&hideTag=true)
 <img align="left" src="https://images.guns.lol/VeZex.gif" width="147"/> 
 
 ```csharp
