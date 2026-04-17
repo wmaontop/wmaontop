@@ -27,10 +27,6 @@ web  $  www.kjsinfo.online
         <li>⌨️</li>
       </ul>
     </td>
-    <td style="vertical-align: middle;">
-      <img src="https://images.guns.lol/VeZex.gif" width="100"/>
-    </td>
-  </tr>
 </table>
 
 
