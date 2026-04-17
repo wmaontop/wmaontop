@@ -3,9 +3,9 @@
 
 ```csharp
 root@kjsinfo.online
-discord user   $  @ 192.168.254.1
-dc serv (Claim OG Role Quick) $  https://discord.gg/74HVz9sqGy 
-web  $  shotz.lol (Coming Soon)
+discord user   $  @ devrando
+dc serv $  https://discord.gg/mAuF9ErxCQ 
+web  $  www.kjsinfo.online 
 ```
 &zwnj; 
 &zwnj;
@@ -22,8 +22,8 @@ web  $  shotz.lol (Coming Soon)
   <tr>
     <td style="vertical-align: top; text-align: left;">
       <ul>
-        <li>WMA</li>
-        <li>shotz.lol in progress</li>
+        <li>Dev</li>
+        <li>Nothin in progress</li>
         <li>⌨️</li>
       </ul>
     </td>
