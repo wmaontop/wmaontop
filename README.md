@@ -62,7 +62,7 @@ web  $  www.kjsinfo.online
 
 <p align="center">
   <a href="https://github.com/wmaontop"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
-  <a href="https://discord.com/users/1415042756409299155"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
+  <a href="https://discord.com/users/1421770554809122858"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
   <a href="https://t.me/wma"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
   <a href="mailto:kjdiscord69@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
