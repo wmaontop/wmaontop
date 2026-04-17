@@ -1,5 +1,4 @@
 ![](https://lanyard.cnrad.dev/api/1421770554809122858?bg=0000&hideTag=true)
-<img align="left" src="https://images.guns.lol/VeZex.gif" width="147"/> 
 
 ```csharp
 root@kjsinfo.online
