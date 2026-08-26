@@ -1,10 +1,10 @@
 ![](https://lanyard.cnrad.dev/api/1421770554809122858?bg=0000&hideTag=true)
 
 ```csharp
-root@kjsinfo.online
+root@aimxen.xyz
 discord user   $  @ devrando
-dc serv $  https://discord.gg/mAuF9ErxCQ 
-web  $  www.kjsinfo.online 
+dc serv $  discord.gg/bvTzjdcNdG
+web  $  www.aimxen.xyz
 ```
 &zwnj; 
 &zwnj;
