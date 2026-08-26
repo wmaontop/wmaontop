@@ -23,7 +23,6 @@ web  $  www.aimxen.xyz
       <ul>
         <li>Dev</li>
         <li>Nothin in progress</li>
-        <li>⌨️</li>
       </ul>
     </td>
 </table>
