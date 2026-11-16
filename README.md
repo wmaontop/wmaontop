@@ -22,7 +22,7 @@ web  $  www.aimxen.xyz
     <td style="vertical-align: top; text-align: left;">
       <ul>
         <li>Dev</li>
-        <li>Nothin in progress</li>
+        <li>Working on aimxen.xyz aka Link-In-Bio Hosting</li>
       </ul>
     </td>
 </table>
