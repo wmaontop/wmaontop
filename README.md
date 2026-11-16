@@ -6,18 +6,20 @@
 
 <br/><br/>
 
-<img src="https://aimxen.xyz/status-widget" width="420" />
+<a href="https://aimxen.xyz/status-widget">
+<img src="https://img.shields.io/badge/◉%20OPEN%20LIVE%20STATUS-Spotify%20%2B%20VS%20Code-15131d?style=for-the-badge&labelColor=15131d" />
+</a>
 
 <br/><br/>
 
 <a href="https://www.aimxen.xyz">
-<img src="https://img.shields.io/badge/EXPLORE-AIMXEN.XYZ-0a0a0f?style=for-the-badge&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/WEBSITE-AIMXEN.XYZ-0a0a0f?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://discord.gg/5QHwmPM53r">
-<img src="https://img.shields.io/badge/JOIN-DISCORD-0a0a0f?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/DISCORD-COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://github.com/wmaontop">
-<img src="https://img.shields.io/badge/GITHUB-WMAONTOP-0a0a0f?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f" />
+<img src="https://img.shields.io/badge/GITHUB-WMAONTOP-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -36,11 +38,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-ABOUT%20ME-8B70FF?style=flat-square" />
-
-</div>
+<sub>01 / ABOUT ME</sub>
 
 ### A little about me
+
+</div>
 
 ```bash
 root@aimxen:~$ whoami
@@ -70,11 +72,9 @@ Currently focused on developing **aimxen.xyz**, a link-in-bio hosting platform.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/02-FEATURED%20PROJECT-8B70FF?style=flat-square" />
+<sub>02 / CURRENTLY BUILDING</sub>
 
-</div>
-
-### Currently building
+### Featured project
 
 <a href="https://www.aimxen.xyz">
 <img src="https://img.shields.io/badge/AIMXEN.XYZ-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -84,48 +84,42 @@ Currently focused on developing **aimxen.xyz**, a link-in-bio hosting platform.
 
 A link-in-bio hosting platform focused on customizable profiles and simple hosting.
 
-[Explore AIMXEN](https://www.aimxen.xyz) · [Join the community](https://discord.gg/5QHwmPM53r)
+[Explore AIMXEN ↗](https://www.aimxen.xyz) · [Join the community ↗](https://discord.gg/5QHwmPM53r)
 
 ---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/03-PROJECT%20SHOWCASE-8B70FF?style=flat-square" />
-
-</div>
+<sub>03 / PROJECT SHOWCASE</sub>
 
 ### Selected projects
 
 A collection of projects, experiments and development work.
 
+</div>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/wmaontop/wmaontop.github.com">
 
 **01 / Personal Website**
 
 `wmaontop.github.com`
 
-</a>
-
 Personal website and web development project.
+
+[View repository ↗](https://github.com/wmaontop/wmaontop.github.com)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/Vogler-Industries">
-
 **02 / Vogler Industries**
 
 `Vogler-Industries`
 
-</a>
-
 TypeScript development project.
+
+[View repository ↗](https://github.com/wmaontop/Vogler-Industries)
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
@@ -134,30 +128,26 @@ TypeScript development project.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/cloud-billing-nest">
-
 **03 / Cloud Billing**
 
 `cloud-billing-nest`
 
-</a>
-
 Cloud billing application project.
+
+[View repository ↗](https://github.com/wmaontop/cloud-billing-nest)
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/BrickServicesRivals">
-
 **04 / Brick Services**
 
 `BrickServicesRivals`
 
-</a>
-
 Rivals Ch3ats project.
+
+[View repository ↗](https://github.com/wmaontop/BrickServicesRivals)
 
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
 <img src="https://img.shields.io/badge/MIT-License-555555?style=flat-square" />
@@ -167,60 +157,52 @@ Rivals Ch3ats project.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/kjsinfo.online">
-
 **05 / KJSInfo**
 
 `kjsinfo.online`
 
-</a>
-
 Website and web development project.
+
+[View repository ↗](https://github.com/wmaontop/kjsinfo.online)
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/Browser">
-
 **06 / Browser**
 
 `Browser`
 
-</a>
-
 Browser-related development project.
+
+[View repository ↗](https://github.com/wmaontop/Browser)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/www.kjsinfo.online">
-
 **07 / KJSInfo Website**
 
 `www.kjsinfo.online`
 
-</a>
-
 Website project.
+
+[View repository ↗](https://github.com/wmaontop/www.kjsinfo.online)
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/Discord-OG-Role-Viewer-Bot">
-
 **08 / Discord OG Role Viewer**
 
 `Discord-OG-Role-Viewer-Bot`
 
-</a>
-
 Python Discord bot.
+
+[View repository ↗](https://github.com/wmaontop/Discord-OG-Role-Viewer-Bot)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MIT-License-555555?style=flat-square" />
@@ -230,30 +212,26 @@ Python Discord bot.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/InfiniteHostingWebsite">
-
 **09 / Infinite Hosting**
 
 `InfiniteHostingWebsite`
 
-</a>
-
 Hosting website project.
+
+[View repository ↗](https://github.com/wmaontop/InfiniteHostingWebsite)
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/wmaontop/shotz-creator-suite">
-
 **10 / Shotz Creator Suite**
 
 `shotz-creator-suite`
 
-</a>
-
 Creator suite development project.
+
+[View repository ↗](https://github.com/wmaontop/shotz-creator-suite)
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
@@ -265,39 +243,31 @@ Creator suite development project.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/04-TECH%20STACK-8B70FF?style=flat-square" />
+<sub>04 / TECH STACK</sub>
+
+### Technologies & tools
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,c,cpp,cs,python,js,ts,lua" />
+
+**Web development**
+
+<img src="https://skillicons.dev/icons?i=nodejs,html,css" />
+
+**Infrastructure & tools**
+
+<img src="https://skillicons.dev/icons?i=cloudflare,nginx,docker,linux,ubuntu,debian,windows,git,github,vscode" />
 
 </div>
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=go,c,cpp,cs,python,js,ts,lua" />
-</p>
-
-### Web development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,html,css" />
-</p>
-
-### Infrastructure & tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cloudflare,nginx,docker,linux,ubuntu,debian,windows,git,github,vscode" />
-</p>
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/05-GITHUB%20ANALYTICS-8B70FF?style=flat-square" />
+<sub>05 / GITHUB ANALYTICS</sub>
 
-</div>
-
-### GitHub statistics
-
-<div align="center">
+### Statistics
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wmaontop&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=ffffff&text_color=999999&icon_color=8B70FF&rank_icon=github" />
 
@@ -309,11 +279,7 @@ Creator suite development project.
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=wmaontop&hide_border=true&background=0a0a0f&stroke=222222&ring=8B70FF&fire=8B70FF&currStreakLabel=ffffff&sideLabels=999999&dates=777777" />
 
-</div>
-
 ### Contribution activity
-
-<div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wmaontop&bg_color=0a0a0f&color=999999&line=8B70FF&point=ffffff&area=true&hide_border=true" />
 
@@ -323,7 +289,7 @@ Creator suite development project.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/06-CONNECT-8B70FF?style=flat-square" />
+<sub>06 / CONNECT</sub>
 
 ### Find me around the internet
 
@@ -355,13 +321,19 @@ Creator suite development project.
 
 <br/><br/>
 
+<a href="https://aimxen.xyz/status-widget">
+<img src="https://img.shields.io/badge/CHECK%20MY%20LIVE%20STATUS-8B70FF?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=wmaontop&style=flat-square&color=8B70FF&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
 <sub>DESIGNED WITH PURPOSE. BUILT WITH CURIOSITY.</sub>
 
-<br/>
+<br/><br/>
 
 **`root@aimxen.xyz`**
 
