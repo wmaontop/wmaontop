@@ -6,9 +6,11 @@
 
 <br/><br/>
 
-<a href="https://aimxen.xyz/status-widget">
-<img src="https://img.shields.io/badge/◉%20OPEN%20LIVE%20STATUS-Spotify%20%2B%20VS%20Code-15131d?style=for-the-badge&labelColor=15131d" />
-</a>
+<div align="center">
+  <img src="https://aimxen.xyz/status-widget.svg"
+       width="450"
+       alt="Live AIMXEN Status" />
+</div>
 
 <br/><br/>
 
